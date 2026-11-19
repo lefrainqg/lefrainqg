@@ -18,4 +18,6 @@ tools     → Docker · Git
 
 > 🔒 La mayoría de mi código está en repos privados. Créeme, ahí sí hay commits.
 
-[LinkedIn](https://www.linkedin.com/in/lefrainqg/) · [X](https://twitter.com/lefrainqg)
+---
+
+💼 [LinkedIn](https://www.linkedin.com/in/lefrainqg/) &nbsp;&nbsp;|&nbsp;&nbsp; 𝕏 [@lefrainqg](https://twitter.com/lefrainqg)
