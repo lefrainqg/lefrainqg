@@ -1,7 +1,7 @@
 ### Hola, soy Efraín 👋
 
-Analista de software en la **ESPOCH** · Riobamba, Ecuador 🇪🇨
-Me gusta construir APIs, interfaces limpias y bases de datos que no den dolores de cabeza. Últimamente, con **agentes de IA** como copilotos 🤖
+Analista de software en la **ESPOCH** · Riobamba, Ecuador
+APIs, interfaces limpias y bases de datos sin dolores de cabeza, con **agentes de IA** como copilotos 🤖
 
 ```
 backend   → NestJS · Express · TypeScript · Java
